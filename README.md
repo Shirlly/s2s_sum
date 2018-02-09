@@ -15,3 +15,8 @@ Set progress to any available GPU.
 * Tensorgraph
 
 
+## Note: 
+The rouge calculation in this file uses PythonRouge (https://github.com/tagucci/pythonrouge).
+
+I will update the calculation of PyRouge (https://pypi.python.org/pypi/pyrouge/0.1.0) later.
+
